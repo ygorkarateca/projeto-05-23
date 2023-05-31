@@ -1,4 +1,4 @@
-nome = "Luiz"
-idade = 23
-formato = '{1} tem {0} anos'
-print(formato.format(nome, idade))
+from pymangaj import pymangaj, Sources
+
+pymangaj.search("Naruto", 1, sources=[
+    Sources.MANGA_LIVRE, Sources.MUITO_MANGA])
