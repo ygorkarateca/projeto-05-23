@@ -8,6 +8,6 @@ x e X - Hexadecimal (ABCDEF0123456789)
 
 nome = 'Ygor'
 preco = 1000.9876543
-variavel = '%s, o preço é R$.2f' % (nome, preco)
+variavel = '%s, o preço é R$%.2f' % (nome, preco)
 print(variavel)
 print('O hexadecimal de %d é %08X' % (1500, 1500))
