@@ -57,4 +57,4 @@ else:
   
 print()
 sleep(1)
-print('ACABEI SEU ARROMBADO!')
+print('ACABEI SEU ARRO@#$*!')
