@@ -6,4 +6,4 @@ if num1 > num2:
 elif num2 > num1:
   print(f'{num2=} é maior que o {num1=}')
 else:
-  print("OS NÚMEROS SÃO IGUAIS!!")
+  print("OS NÚMEROS SÃO IGUAIS!")
